@@ -1,12 +1,12 @@
-# Welcome to My GitHub Portfolio! 👋
+# Welcome to JC's GitHub Portfolio! 👋
 
-Hi there! I'm **Jordan Camel**, a passionate [Your Profession or Title] with a focus on [Your Area of Expertise]. Welcome to my GitHub portfolio where I showcase my projects, collaborations, and contributions.
+Hello, my name is **Jordan Camel**>. I'm a passionate engineeer with a focus on the software side of computer science. Here is my GitHub portfolio where I showcase my projects, collaborations, and contributions. Lots of work to go but I am determined to do it!
 
 ---
 
 ## 🔭 Projects
 
-Here are some of the cool projects I've worked on:
+Here are some interesting projects I've worked on:
 
 ### 1. [Project Title 1](https://github.com/yourusername/project1)
 - **Description**: Brief description of the project.
@@ -36,15 +36,15 @@ Here are some of the cool projects I've worked on:
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Currently Learning
 
 - Introduction to Database Systems
 - Introduction to the Internet
-- Music & Computing
+- Computing Music with CNMAT Technologies
 
 ---
 
-## 💼 Work Experience
+## 💼 Past & Current Work Experience
 
 ### **[Job Title]** at [Company Name]  
 *(Start Date - End Date)*
@@ -53,11 +53,11 @@ Here are some of the cool projects I've worked on:
 
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Contact Me
 
-- **Email**: [Email](jcamel@berkeley.edu)
+- **Email**: [Gmail](jcamel@berkeley.edu)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/)
-- **Handshake**: [HandShake](https://berkeley.joinhandshake.com/profiles/33149893)
+- **Handshake**: [Handshake](https://berkeley.joinhandshake.com/profiles/33149893)
 
 ---
 
@@ -70,10 +70,10 @@ Here are some of the cool projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamel2&layout=compact&theme=radical)
 
 ---
 
-Thanks for visiting my portfolio! 😊 Feel free to check out my repositories and connect with me.
+Thank you for visiting my portfolio! Feel free to check out my repositories and connect with me or provide constructive criticism!
