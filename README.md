@@ -1,6 +1,6 @@
 # Welcome to JC's GitHub Portfolio! 👋
 
-Hello, my name is **Jordan Camel**>. I'm a passionate engineeer with a focus on the software side of computer science. Here is my GitHub portfolio where I showcase my projects, collaborations, and contributions. Lots of work to go but I am determined to do it!
+Hello, my name is **Jordan Camel**. I'm a passionate engineeer with a focus on the software side of computer science. Here is my GitHub portfolio where I showcase my projects, collaborations, and contributions. Lots of work to go but I am determined to do it!
 
 ---
 
