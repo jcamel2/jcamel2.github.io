@@ -8,13 +8,13 @@ Hello, my name is **Jordan Camel**. I'm a passionate engineeer with a focus on t
 
 Here are some interesting projects I've worked on:
 
-### 1. [Project Title 1](https://github.com/yourusername/project1)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies (e.g., Python, React, etc.)
+### 1. [Packet Watchers](https://github.com/jcamel2/Packet_Watchers) with a [Design Doc](https://www.dropbox.com/scl/fi/27eomd9hs1iz6dc74i0y4/Project-2-Design-Doc.paper?rlkey=8bt3ph55rdb0h7k186tn87u3f&dl=0)
+- **Description**: A file sharing system that has to account for DataStore and KeyStore Adversaries trying to steal and alter the file system. Encryption and Decryption strategies are used throughout the project to ensure confidentiality, integrity, and authenticated access for all users. 
+- **Technologies Used**: Go, VS Code, DropBox
 - **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - User authenitication with passwords, keys, and not allowing any duplicates of any sort.
+  - File operations such as: storing, loading and appending.
+  - Sharing and revoking access of files using invitations and a tree-like data structure.
 
 ---
 
