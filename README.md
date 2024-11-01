@@ -21,23 +21,19 @@ Here are some interesting projects I've worked on:
 
 ---
 
-### 2. [Project Title 2](https://github.com/yourusername/project2)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies.
+### 2. [Spam n Ham](https://github.com/jcamel2/Spam_n_Ham)
+
+- **Description**: A class project that was made to help distinguish spam emails from normal ones. Data Science classification strategies such as training-validation split, feature engineering and EDA were used to separate the two types of emails. Data analysis was key in deciding which features to focus on.
+  
+- **Technologies Used**: Pandas, Sklearn, Jupyter Notebook
+
 - **Key Features**:
-  - Feature 1
-  - Feature 2
+  - Logistic regression in order to fit the training sets accordingly.
+  - Evaluating true/false positives and true/false negatives to determine how accurate our predictive model was.
+  - Creating my own model and using ROC curves to express how accurate my classifications were.
 
 ---
 
-### 3. [Project Title 3](https://github.com/yourusername/project3)
-- **Description**: A brief description of this project.
-- **Technologies Used**: List of technologies.
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-
----
 
 ## 🌱 What I'm Currently Learning
 
@@ -49,10 +45,7 @@ Here are some interesting projects I've worked on:
 
 ## 💼 Past & Current Work Experience
 
-### **[Job Title]** at [Company Name]  
-*(Start Date - End Date)*
-- Key responsibility 1
-- Key responsibility 2
+### **[No current experience so far!]** 
 
 ---
 
@@ -61,13 +54,6 @@ Here are some interesting projects I've worked on:
 - **Email**: [Gmail](jcamel@berkeley.edu)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/)
 - **Handshake**: [Handshake](https://berkeley.joinhandshake.com/profiles/33149893)
-
----
-
-## 🏆 Achievements & Certifications
-
-- **Certification 1**: Name of Certification (Year)
-- **Award 2**: Brief description of award
 
 ---
 
