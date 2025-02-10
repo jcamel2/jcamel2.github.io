@@ -34,7 +34,6 @@ Here are some interesting projects I've worked on:
 
 ---
 
-
 ## 🌱 What I'm Currently Learning
 
 - Introduction to Database Systems
@@ -57,11 +56,11 @@ Here are some interesting projects I've worked on:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 TryHackMe Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamel2&layout=compact&theme=radical)
+![Your TryHacke Stats](https://tryhackme.com/p/jcamel)
 
 ---
 
