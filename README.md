@@ -56,11 +56,11 @@ Here are some interesting projects I've worked on:
 
 ---
 
-## 📈 TryHackMe Stats
+## 📈 GitHub & TryHackMe Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
 
-![Your TryHacke Stats](https://tryhackme.com/p/jcamel)
+![Your TryHackMe Stats](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4101299" style='border:none;'></iframe>)
 
 ---
 
