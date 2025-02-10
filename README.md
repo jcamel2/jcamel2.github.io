@@ -58,8 +58,10 @@ Here are some interesting projects I've worked on:
 
 ## 📈 GitHub & TryHackMe Stats
 
+- **GitHub**: [GitHub]((https://github.com/)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
 
+- **TryHackMe**: [TryHackMe](https://tryhackme.com/p/jcamel)
 ![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/jcamel.png)
 
 ---
