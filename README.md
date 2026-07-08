@@ -1,19 +1,18 @@
 # Hi, I'm Jordan Camel 👋
 
-I'm a software engineer with a focus on the systems and data side of computer science. This is my GitHub portfolio, where I share my projects, coursework, and ongoing contributions as I grow as an engineer.
+I'm a currently a Tech Specialist who is an aspiring Security Engineer. This is my GitHub portfolio, where I share my projects, experience, and ongoing contributions as I grow as an engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-camel-b74424268/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jcamel@berkeley.edu)
-[![Handshake](https://img.shields.io/badge/Handshake-FF6A00?style=flat&logoColor=white)](https://berkeley.joinhandshake.com/profiles/33149893)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jordancamel.3@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jcamel)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Go, Python, Java (adjust to what's accurate for you)
-**Tools & Libraries:** Pandas, scikit-learn, Jupyter Notebook, Git
-**Areas of Interest:** Systems programming, security & cryptography, data science
+**Languages:** Python, Java, C, SQL, Assembly
+**Tools & Systems:** Linux, Windows, MacOS, PowerShell, Command Prompt, ServiceNow, Splunk, WireShark
+**Areas of Interest:** Networking, Computer Security, Databases, Log Analysis, Scripting, Debugging, Troubleshooting
 
 ---
 
@@ -43,24 +42,15 @@ A machine learning classifier that distinguishes spam from legitimate email, bui
 
 ## 🌱 Currently Learning
 
-- Database Systems
-- Computer Networks
-- Computer Music, with CNMAT Technologies
+- Active Directory Setup, Triage, and Defense Project
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-I'm actively seeking my first internship/industry role — currently focused on building out my project portfolio and deepening my systems and data science skills. Open to opportunities!
-
----
-
-## 📈 GitHub & TryHackMe Stats
-
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jcamel.png)](https://tryhackme.com/p/jcamel)
+- Currently a Functional Tech Specialist with the Army Installation Command. In charge of monitoring and troubleshooting all Technology systems in the Child and Youth Services department. Also in charge of managing the Child Youth Management Systems to ensure accuracy for all households. Been with the Army for almost a year!
+                                                                             
 
 ---
 
-📫 Feel free to reach out via [email](mailto:jcamel@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/) — I'd love to connect or hear any feedback on my work!
+📫 Feel free to reach out via [email](mailto:jordancamel.3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/) — I'd love to connect or hear any feedback on my work!
