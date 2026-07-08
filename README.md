@@ -10,33 +10,33 @@ I'm a currently a Tech Specialist who is an aspiring Security Engineer. This is 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C, SQL, Assembly
-**Tools & Systems:** Linux, Windows, MacOS, PowerShell, Command Prompt, ServiceNow, Splunk, WireShark
-**Areas of Interest:** Networking, Computer Security, Databases, Log Analysis, Scripting, Debugging, Troubleshooting
+- **Languages:** Python, Java, C, SQL, Assembly
+- **Tools & Systems:** Linux, Windows, MacOS, PowerShell, Command Prompt, ServiceNow, Splunk, WireShark
+- **Areas of Interest:** Networking, Computer Security, Databases, Log Analysis, Scripting, Debugging, Troubleshooting
 
 ---
 
 ## 🔭 Projects
 
 ### 1. [Packet Watchers](https://github.com/jcamel2/Packet_Watchers) · [Design Doc](https://www.dropbox.com/scl/fi/27eomd9hs1iz6dc74i0y4/Project-2-Design-Doc.paper?rlkey=8bt3ph55rdb0h7k186tn87u3f&dl=0)
-A secure, multi-user file sharing system built in Go, designed to withstand active adversaries with access to the underlying data and key stores. Implements end-to-end encryption and integrity verification to guarantee confidentiality, integrity, and authenticated access.
+A secure, multi-user file sharing system designed to withstand adversaries with access to the underlying data and key stores. End-to-end encryption and integrity verification were used to guarantee the Confidentiality, Integrity, and Availability Triad.
 
-- Designed authentication using passwords and cryptographic keys, with protections against duplicate or spoofed identities
-- Implemented core file operations — store, load, and append — over an untrusted storage layer
-- Built a tree-structured sharing model supporting file invitations and access revocation between users
+- Designed authentication using passwords and cryptographic keys, with protections against duplicate or spoofed identities.
+- Implemented core file operations — store, load, and append — over an untrusted storage layer.
+- Built a tree-structured sharing model supporting file invitations and access revocation between users.
 
-**Tech:** Go
+- **Tech:** Go
 
 ---
 
 ### 2. [Spam n Ham](https://github.com/jcamel2/Spam_n_Ham)
-A machine learning classifier that distinguishes spam from legitimate email, built as part of a data science course project. Focused on rigorous feature engineering and exploratory data analysis to identify the signals that best separate the two classes.
+A machine learning classifier that distinguishes spam from legitimate email. Focused on rigorous feature engineering and exploratory data analysis to identify the signals that best separate the two classes.
 
-- Trained a logistic regression model using a proper training/validation split to avoid overfitting
-- Evaluated model performance using precision/recall trade-offs (true/false positives and negatives)
-- Built a custom classification model and used ROC curves to quantify and compare accuracy
+- Trained a logistic regression model using a proper training/validation split to avoid overfitting.
+- Evaluated model performance using precision/recall trade-offs (true/false positives and negatives).
+- Built a custom classification model and used ROC curves to quantify and compare accuracy.
 
-**Tech:** Python, Pandas, scikit-learn, Jupyter Notebook
+- **Tech:** Python, Pandas, scikit-learn, Jupyter Notebook
 
 ---
 
@@ -53,4 +53,4 @@ A machine learning classifier that distinguishes spam from legitimate email, bui
 
 ---
 
-📫 Feel free to reach out via [email](mailto:jordancamel.3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/) — I'd love to connect or hear any feedback on my work!
+📫 Feel free to reach out via [Email](mailto:jordancamel.3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/) — I'd love to connect or hear any feedback on my work!
