@@ -1,4 +1,4 @@
-# Hi, I'm Jordan Camel 👋
+## Hi, I'm Jordan Camel 👋
 
 I'm currently a Tech Specialist who is an aspiring Security Engineer. This is my GitHub portfolio, where I share my projects, experience, and ongoing contributions as I grow as an engineer.
 
