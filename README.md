@@ -1,5 +1,3 @@
-## Hi, I'm Jordan Camel 👋
-
 I'm currently a Tech Specialist who is an aspiring Security Engineer. This is my GitHub portfolio, where I share my projects, experience, and ongoing contributions as I grow as an engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-camel-b74424268/)
