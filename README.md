@@ -1,67 +1,66 @@
-# Welcome to JC's GitHub Portfolio! 👋
+# Hi, I'm Jordan Camel 👋
 
-Hello, my name is **Jordan Camel**. I'm a passionate engineeer with a focus on the software side of computer science. Here is my GitHub portfolio where I showcase my projects, collaborations, and contributions. Lots of work to go but I am determined to do it!
+I'm a software engineer with a focus on the systems and data side of computer science. This is my GitHub portfolio, where I share my projects, coursework, and ongoing contributions as I grow as an engineer.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-camel-b74424268/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jcamel@berkeley.edu)
+[![Handshake](https://img.shields.io/badge/Handshake-FF6A00?style=flat&logoColor=white)](https://berkeley.joinhandshake.com/profiles/33149893)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jcamel)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Go, Python, Java (adjust to what's accurate for you)
+**Tools & Libraries:** Pandas, scikit-learn, Jupyter Notebook, Git
+**Areas of Interest:** Systems programming, security & cryptography, data science
 
 ---
 
 ## 🔭 Projects
 
-Here are some interesting projects I've worked on:
+### 1. [Packet Watchers](https://github.com/jcamel2/Packet_Watchers) · [Design Doc](https://www.dropbox.com/scl/fi/27eomd9hs1iz6dc74i0y4/Project-2-Design-Doc.paper?rlkey=8bt3ph55rdb0h7k186tn87u3f&dl=0)
+A secure, multi-user file sharing system built in Go, designed to withstand active adversaries with access to the underlying data and key stores. Implements end-to-end encryption and integrity verification to guarantee confidentiality, integrity, and authenticated access.
 
-### 1. [Packet Watchers](https://github.com/jcamel2/Packet_Watchers) w/ [Design Doc](https://www.dropbox.com/scl/fi/27eomd9hs1iz6dc74i0y4/Project-2-Design-Doc.paper?rlkey=8bt3ph55rdb0h7k186tn87u3f&dl=0)
+- Designed authentication using passwords and cryptographic keys, with protections against duplicate or spoofed identities
+- Implemented core file operations — store, load, and append — over an untrusted storage layer
+- Built a tree-structured sharing model supporting file invitations and access revocation between users
 
-- **Description**: A file sharing system that has to account for DataStore and KeyStore Adversaries trying to steal and alter the file system. Encryption and Decryption strategies are used throughout the project to ensure confidentiality, integrity, and authenticated access for all users.
-
-- **Technologies Used**: Go, VS Code, DropBox
-
-- **Key Features**:
-  - User authenitication with passwords, keys, and not allowing any duplicates of any sort.
-  - File operations such as: storing, loading and appending.
-  - Sharing and revoking access of files using invitations and a tree-like data structure.
+**Tech:** Go
 
 ---
 
 ### 2. [Spam n Ham](https://github.com/jcamel2/Spam_n_Ham)
+A machine learning classifier that distinguishes spam from legitimate email, built as part of a data science course project. Focused on rigorous feature engineering and exploratory data analysis to identify the signals that best separate the two classes.
 
-- **Description**: A class project that was made to help distinguish spam emails from normal ones. Data Science classification strategies such as training-validation split, feature engineering and EDA were used to separate the two types of emails. Data analysis was key in deciding which features to focus on.
-  
-- **Technologies Used**: Pandas, Sklearn, Jupyter Notebook
+- Trained a logistic regression model using a proper training/validation split to avoid overfitting
+- Evaluated model performance using precision/recall trade-offs (true/false positives and negatives)
+- Built a custom classification model and used ROC curves to quantify and compare accuracy
 
-- **Key Features**:
-  - Logistic regression in order to fit the training sets accordingly.
-  - Evaluating true/false positives and true/false negatives to determine how accurate our predictive model was.
-  - Creating my own model and using ROC curves to express how accurate my classifications were.
+**Tech:** Python, Pandas, scikit-learn, Jupyter Notebook
 
 ---
 
-## 🌱 What I'm Currently Learning
+## 🌱 Currently Learning
 
-- Introduction to Database Systems
-- Introduction to the Internet
-- Computing Music with CNMAT Technologies
-
----
-
-## 💼 Past & Current Work Experience
-
-### **[No current experience so far!]** 
+- Database Systems
+- Computer Networks
+- Computer Music, with CNMAT Technologies
 
 ---
 
-## 📫 How to Contact Me
+## 💼 Experience
 
-- **Email**: [Gmail](jcamel@berkeley.edu)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/)
-- **Handshake**: [Handshake](https://berkeley.joinhandshake.com/profiles/33149893)
+I'm actively seeking my first internship/industry role — currently focused on building out my project portfolio and deepening my systems and data science skills. Open to opportunities!
 
 ---
 
 ## 📈 GitHub & TryHackMe Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcamel2&show_icons=true&theme=radical)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/jcamel.png)](https://tryhackme.com/p/jcamel)
 
 ---
 
-Thank you for visiting my portfolio! Feel free to check out my repositories and connect with me or provide constructive criticism!
+📫 Feel free to reach out via [email](mailto:jcamel@berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/jordan-camel-b74424268/) — I'd love to connect or hear any feedback on my work!
