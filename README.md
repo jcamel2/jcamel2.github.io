@@ -38,20 +38,30 @@ A machine learning classifier that distinguishes spam from legitimate email. Foc
 - Evaluated model performance using precision/recall trade-offs (true/false positives and negatives).
 - Built a custom classification model and used ROC curves to quantify and compare accuracy.
 
-**Tech:** Python, Pandas, scikit-learn, Jupyter Notebook
+**Tech:** Python, Pandas, Jupyter Notebook, scikit-learn
 
 ---
 
+### 3. [So You Want to be a SOC Analyst? Lab](https://github.com/jcamel2/soc_beginner_lab_write_up)
+
+An attack and defense situation monittored by a Cloud-Based EDR. Endpoint telemetry enhanced by referring to the MITRE ATT&CK and Cyber Kill Chain. Improvised with Claude constructed code for detection and YARA rules.
+
+- Simulated file integrity violations and credential dumping attacks using Sliver on Linux's Terminal.
+- Inspected hundreds of sysmon and Windows event logs to correlate security incidents to the attacker.
+- Engineered detection and YARA rules with AI to automate dozens of alerts efficiently.
+
+**Tech:** Linux, Windows, LimaCharlie
+
 ## 🌱 Currently Learning
 
-- Active Directory Setup, Triage, and Defense Project
+- SIEM Homelab using Splunk, Linux, and Windows
 
 ---
 
 ## 💼 Work Experience
 
 **Functional Tech Specialist — Army Installation Command** *(~1 year)*
-Monitor and troubleshoot technology systems for the Child and Youth Services department, and manage the Child Youth Management System to ensure data accuracy across all households.
+Monitor and troubleshoot technology systems for the Child and Youth Services department. Also manage the Child Youth Management System to ensure data accuracy across all households.
 
 ---
 
